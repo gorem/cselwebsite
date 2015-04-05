@@ -1,0 +1,20 @@
+h1 {
+	font-family:helvetica;
+	/*text-align:center;*/
+}
+
+p, a {
+	/*font-family:helvetica;*/
+	font-family: "Palatino Linotype", Palatino, serif;
+}
+
+html {
+	max-width: 640px;
+	margin: 0 auto;
+}
+
+img {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
