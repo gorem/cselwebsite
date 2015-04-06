@@ -1,11 +1,11 @@
 h1 {
 	font-family:helvetica;
-	/*text-align:center;*/
+	font-size:36px;
 }
 
 p, a {
-	/*font-family:helvetica;*/
 	font-family: "Palatino Linotype", Palatino, serif;
+	font-size:20px;
 }
 
 html {
