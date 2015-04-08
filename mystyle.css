@@ -3,7 +3,7 @@ h1 {
 	font-size:36px;
 }
 
-p, a {
+p, a, body {
 	font-family: "Palatino Linotype", Palatino, serif;
 	font-size:19px;
 }
