@@ -1,10 +1,11 @@
 h1 {
-	font-family: "Fira Mono", sans-serif;
+	font-family: 'Fira Mono', sans-serif;
 	font-size:36px;
+	font-weight:400;
 }
 
 p, a, body {
-	font-family: "Iowan Old Style", serif;
+	font-family: 'Iowan Old Style', serif;
 	font-size:19px;
 }
 
