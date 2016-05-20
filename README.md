@@ -1,3 +1,3 @@
 #CSEL website files
 
-Source code for my site at csel.cs.colorado.edu
+Source code for my site at https://csel.cs.colorado.edu/~gore/
