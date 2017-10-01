@@ -19,5 +19,5 @@ This was the source code for my personal site, which was hosted at https://csel.
 * README.md: This very file!
 
 * Hidden files:
- * sync.sh: I .gitignored this file, which was simply an scp command to sync files to my server. It took me a while to figure out exactly how to write an scp command and I didn't want to have to do it again. Turns it out it's easy once you understand Unix filesystem conventions, which of course I didn't at the time I was looking up a tutorial. This is depressingly common for learning to code.
- * hidden.txt: I had a hidden page on my site! It was mostly a Neal Stephenson quote and the date I put the page up. Don't know if anyone ever found it. (The same goes for index.html. 😉)
+  * sync.sh: I .gitignored this file, which was simply an scp command to sync files to my server. It took me a while to figure out exactly how to write an scp command and I didn't want to have to do it again. Turns it out it's easy once you understand Unix filesystem conventions, which of course I didn't at the time I was looking up a tutorial. This is depressingly common for learning to code.
+  * hidden.txt: I had a hidden page on my site! It was mostly a Neal Stephenson quote and the date I put the page up. Don't know if anyone ever found it. (The same goes for index.html. 😉)
